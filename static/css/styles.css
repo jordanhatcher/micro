@@ -1,0 +1,59 @@
+#header {
+    /* Layout */
+    padding: 20px;
+
+    /* Fonts */
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-item {
+    /* Layout */
+    margin-right: 10px;
+
+    /* Fonts */
+    text-decoration: underline;
+    color: black;
+}
+
+.social {
+    /* Layout */
+    float: right;
+    margin-left: 10px;
+}
+
+#content {
+    /* Layout */
+    max-width: 700px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+
+    /* Fonts */
+    font-size: 1.1em;
+    line-height: 1.6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content a {
+    color: #0000EE;
+}
+
+.publish-date {
+    /* Font */
+    font-size: 0.8em;
+}
+
+h3 {
+    /* Layout */
+    margin-top: 0px;
+}
+
+.summary {
+    /* Layout */
+    margin-bottom: 40px;
+}
+
+pre {
+    overflow-x: auto;
+}

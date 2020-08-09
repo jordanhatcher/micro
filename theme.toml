@@ -1,0 +1,12 @@
+name = "Micro"
+license = "MIT"
+licenselink = "https://github.com/jordanhatcher/micro/blob/master/LICENSE"
+description = "Minimal theme with no javascript"
+homepage = "https://github.com/jordanhatcher/micro"
+tags = [ "minimal", "simple", "blog", "light" ]
+features = [ "no javascript", "minimal"]
+min_version = "0.41.0"
+
+[author]
+  name = "Jordan Hatcher"
+  homepage = "https://jordan-hatcher.com"
